@@ -1,4 +1,4 @@
-# EDA & Music Genre Impact on Mental Health
+# Music Preference and Health Analysis
 This project explores the relationship between music genre preferences and self-reported mental health conditions like anxiety and depression using survey data. It was conducted as part of an academic project at Indiana University Indianapolis and focuses on statistical analysis and predictive modeling techniques in Python.
 
 📊 The entire exploratory data analysis (EDA) and modeling were performed using Python libraries and Jupyter Notebooks.
@@ -8,13 +8,9 @@ To investigate whether music listening habits—such as favorite genres, streami
 
 ## 🛠️ Tools & Technologies
 - Python Libraries: Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn, SciPy
-
 - Platform: Jupyter Notebook
-
 - Dataset: Kaggle - Music & Mental Health Survey Dataset
-
 - Statistical Tests: Correlation Matrix, T-Test
-
 - ML Models: Linear Regression, Decision Tree Regressor, Support Vector Regressor
 
 ## 📌 Key Steps
